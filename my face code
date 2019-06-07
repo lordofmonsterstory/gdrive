@@ -1,0 +1,63 @@
+FACE 1:
+
+# Emotional analysis:
+
+Anger: very unlikely
+Joy: very unlikely
+Sorrow: very unlikely
+Surprise: very unlikely
+
+# Other:
+
+Headwear: very unlikely
+
+# Face structure analysis:
+
+Pan Angle: -8.712303
+Roll Angle: -10.976173
+Tilt Angle: -13.765173
+
+Face elements coordinates:
+Left eye: x = 415.6, y = 493.62, z = 0.0
+Right eye: x = 538.31, y = 469.65, z = -19.45
+Left of left eyebrow: x = 362.15, y = 469.68, z = 11.69
+Right of right eyebrow: x = 433.92, y = 466.82, z = -36.23
+Left of right eyebrow: x = 494.49, y = 457.04, z = -45.64
+Right of right eyebrow: x = 577.81, y = 437.18, z = -19.98
+Midpoint between eyes: x = 466.51, y = 486.93, z = -36.63
+Nose tip: x = 478.08, y = 571.53, z = -55.21
+Upper lip: x = 492.19, y = 610.07, z = -13.87
+Lower lip: x = 500.45, y = 644.36, z = 4.74
+Mouth left: x = 448.31, y = 626.74, z = 32.08
+Mouth right: x = 546.94, y = 611.99, z = 16.28
+Mouth center: x = 496.14, y = 624.04, z = 0.06
+Nose bottom right: x = 519.93, y = 564.09, z = -9.57
+Nose bottom left: x = 451.93, y = 575.46, z = 1.61
+Nose bottom center: x = 487.26, y = 584.93, z = -20.83
+Left eye top boundary: x = 407.0, y = 488.93, z = -9.68
+Left eye right corner: x = 438.43, y = 494.5, z = -2.11
+Left eye bottom boundary: x = 413.51, y = 504.61, z = 1.98
+Left eye left corner: x = 385.59, y = 496.6, z = 16.47
+Left eye pupil: x = 407.27, y = 496.71, z = -1.84
+Right eye top boundary: x = 535.26, y = 468.8, z = -28.95
+Right eye right corner: x = 566.19, y = 465.74, z = -10.44
+Right eye bottom boundary: x = 540.73, y = 482.24, z = -17.43
+Right eye left corner: x = 514.93, y = 480.73, z = -13.69
+Right eye pupil: x = 538.91, y = 475.99, z = -21.74
+Left eyebrow upper midpoint: x = 393.55, y = 455.36, z = -24.34
+Right eyebrow upper midpoint: x = 532.73, y = 433.64, z = -45.2
+Left ear tragus: x = 356.8, y = 527.67, z = 183.97
+Right ear tragus: x = 645.88, y = 481.96, z = 138.76
+Forehead glabella: x = 464.05, y = 461.89, z = -45.96
+Chin gnation: x = 514.25, y = 700.22, z = 37.83
+Chin left gonion: x = 380.85, y = 619.84, z = 150.51
+Left of left eyebrow: x = 643.93, y = 578.02, z = 110.77
+
+Maxillofacial harmony: 7.967631
+
+# Detection quality statistics:
+
+Detection confidence: 100.0%
+Landmarking confidence: 68.47%
+Blurred likelihood: very unlikely
+Underexposed likelihood: very unlikely
